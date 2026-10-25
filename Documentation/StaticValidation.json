@@ -1,0 +1,36 @@
+{
+  "result": "PASS",
+  "checks": 9514,
+  "csharpFiles": 9,
+  "yamlFiles": 40,
+  "gameObjects": 323,
+  "holds": 40,
+  "momentumGapFeasibility": [
+    {
+      "from": 12,
+      "to": 13,
+      "closestHandDistance": 0.05093331701920574,
+      "example": {
+        "swingAngle": -1.0422332310976767,
+        "angularSpeed": -3.850556891386957,
+        "aimAngleDegrees": 42.19052855054243,
+        "catchTime": 0.9399999999999996
+      }
+    },
+    {
+      "from": 26,
+      "to": 27,
+      "closestHandDistance": 0.15406392387095683,
+      "example": {
+        "swingAngle": -1.0422332310976767,
+        "angularSpeed": -3.850556891386957,
+        "aimAngleDegrees": 42.19052855054243,
+        "catchTime": 0.9599999999999996
+      }
+    }
+  ],
+  "limitations": [
+    "No Unity Editor available: no Unity compilation, shader compilation, import, Play Mode, Android build or device profiling performed.",
+    "Numerical checks establish geometric/ballistic feasibility, not usability or playability."
+  ]
+}

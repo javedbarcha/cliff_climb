@@ -1,0 +1,4 @@
+numpy
+PyYAML
+tree-sitter
+tree-sitter-c-sharp

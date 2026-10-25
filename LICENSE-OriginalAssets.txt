@@ -1,0 +1,3 @@
+The original gameplay scripts, shaders, generated meshes and scene arrangement in this prototype may be used, modified and distributed by Javed Ur Rehman, including in commercial games.
+
+Unity and its packages are governed by their respective Unity licenses. No ownership of Unity software is transferred by this file. No third-party game assets or reference screenshots are included.

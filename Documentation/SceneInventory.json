@@ -1,0 +1,5663 @@
+{
+  "objects": [
+    {
+      "name": "Canyon floor",
+      "mesh": "OctagonalColumn",
+      "mat": "Sand",
+      "pos": [
+        0,
+        -0.4,
+        0
+      ],
+      "scale": [
+        110,
+        0.8,
+        110
+      ],
+      "yaw": 0,
+      "parent": "01 - CANYON WORLD"
+    },
+    {
+      "name": "Base camp clearing",
+      "mesh": "OctagonalColumn",
+      "mat": "SandLight",
+      "pos": [
+        0,
+        0.015,
+        8.5
+      ],
+      "scale": [
+        12,
+        0.03,
+        9
+      ],
+      "yaw": 0,
+      "parent": "01 - CANYON WORLD"
+    },
+    {
+      "name": "Sandstone stratum 01",
+      "mesh": "CliffBand",
+      "mat": "Terracotta",
+      "pos": [
+        0,
+        1.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 01",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 02",
+      "mesh": "CliffBand",
+      "mat": "Apricot",
+      "pos": [
+        0,
+        4.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 02",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        6,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 03",
+      "mesh": "CliffBand",
+      "mat": "Peach",
+      "pos": [
+        0,
+        7.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 03",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        9,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 04",
+      "mesh": "CliffBand",
+      "mat": "Ochre",
+      "pos": [
+        0,
+        10.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 04",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        12,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 05",
+      "mesh": "CliffBand",
+      "mat": "Terracotta",
+      "pos": [
+        0,
+        13.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 05",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        15,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 06",
+      "mesh": "CliffBand",
+      "mat": "Apricot",
+      "pos": [
+        0,
+        16.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 06",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        18,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 07",
+      "mesh": "CliffBand",
+      "mat": "Peach",
+      "pos": [
+        0,
+        19.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 07",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        21,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 08",
+      "mesh": "CliffBand",
+      "mat": "Ochre",
+      "pos": [
+        0,
+        22.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 08",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        24,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 09",
+      "mesh": "CliffBand",
+      "mat": "Terracotta",
+      "pos": [
+        0,
+        25.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 09",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        27,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 10",
+      "mesh": "CliffBand",
+      "mat": "Apricot",
+      "pos": [
+        0,
+        28.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 10",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        30,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 11",
+      "mesh": "CliffBand",
+      "mat": "Peach",
+      "pos": [
+        0,
+        31.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 11",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        33,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sandstone stratum 12",
+      "mesh": "CliffBand",
+      "mat": "Ochre",
+      "pos": [
+        0,
+        34.5,
+        0
+      ],
+      "scale": [
+        11.65,
+        3,
+        11.65
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Thin sediment seam 12",
+      "mesh": "CliffBand",
+      "mat": "Wine",
+      "pos": [
+        0,
+        36,
+        0
+      ],
+      "scale": [
+        11.68,
+        0.09,
+        11.68
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Sunlit summit cap",
+      "mesh": "CliffBand",
+      "mat": "SandLight",
+      "pos": [
+        0,
+        36.12,
+        0
+      ],
+      "scale": [
+        11.8,
+        0.25,
+        11.8
+      ],
+      "yaw": 0,
+      "parent": "02 - SUNSPINE / climbable tower"
+    },
+    {
+      "name": "Backdrop mesa 1 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        42.21964236280568,
+        3.1597636162322953,
+        0.0
+      ],
+      "scale": [
+        12.684195414827734,
+        6.519527232464591,
+        12.684195414827734
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 1 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        42.21964236280568,
+        9.679290848696887,
+        0.0
+      ],
+      "scale": [
+        10.401040240158743,
+        6.519527232464591,
+        10.401040240158743
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 1 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        42.21964236280568,
+        16.198818081161477,
+        0.0
+      ],
+      "scale": [
+        8.11788506548975,
+        6.519527232464591,
+        8.11788506548975
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 2 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        36.40493792895433,
+        2.1160924344692393,
+        13.250313786448062
+      ],
+      "scale": [
+        16.97135243388109,
+        4.432184868938479,
+        16.97135243388109
+      ],
+      "yaw": 19,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 2 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        36.40493792895433,
+        6.548277303407719,
+        13.250313786448062
+      ],
+      "scale": [
+        13.916508995782495,
+        4.432184868938479,
+        13.916508995782495
+      ],
+      "yaw": 19,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 2 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        36.40493792895433,
+        10.980462172346197,
+        13.250313786448062
+      ],
+      "scale": [
+        10.861665557683898,
+        4.432184868938479,
+        10.861665557683898
+      ],
+      "yaw": 19,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 3 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        26.104238990956105,
+        1.4620261151591856,
+        21.904057309474837
+      ],
+      "scale": [
+        10.349707171090024,
+        3.1240522303183713,
+        10.349707171090024
+      ],
+      "yaw": 38,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 3 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        26.104238990956105,
+        4.586078345477557,
+        21.904057309474837
+      ],
+      "scale": [
+        8.486759880293821,
+        3.1240522303183713,
+        8.486759880293821
+      ],
+      "yaw": 38,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 3 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        26.104238990956105,
+        7.710130575795929,
+        21.904057309474837
+      ],
+      "scale": [
+        6.623812589497616,
+        3.1240522303183713,
+        6.623812589497616
+      ],
+      "yaw": 38,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 4 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        16.734590532813957,
+        1.9396453731856287,
+        28.985161046694895
+      ],
+      "scale": [
+        10.411197599102419,
+        4.0792907463712575,
+        10.411197599102419
+      ],
+      "yaw": 57,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 4 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        16.734590532813957,
+        6.018936119556887,
+        28.985161046694895
+      ],
+      "scale": [
+        8.537182031263985,
+        4.0792907463712575,
+        8.537182031263985
+      ],
+      "yaw": 57,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 4 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        16.734590532813957,
+        10.098226865928144,
+        28.985161046694895
+      ],
+      "scale": [
+        6.663166463425548,
+        4.0792907463712575,
+        6.663166463425548
+      ],
+      "yaw": 57,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 5 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        5.254684621266547,
+        1.9346659798860832,
+        29.800797360413725
+      ],
+      "scale": [
+        10.799585634512795,
+        4.069331959772167,
+        10.799585634512795
+      ],
+      "yaw": 76,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 5 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        5.254684621266547,
+        6.00399793965825,
+        29.800797360413725
+      ],
+      "scale": [
+        8.855660220300493,
+        4.069331959772167,
+        8.855660220300493
+      ],
+      "yaw": 76,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 5 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        5.254684621266547,
+        10.073329899430417,
+        29.800797360413725
+      ],
+      "scale": [
+        6.911734806088189,
+        4.069331959772167,
+        6.911734806088189
+      ],
+      "yaw": 76,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 6 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -6.937946294326413,
+        1.6043491577932334,
+        39.34704868449745
+      ],
+      "scale": [
+        8.63708947810235,
+        3.408698315586467,
+        8.63708947810235
+      ],
+      "yaw": 95,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 6 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -6.937946294326413,
+        5.013047473379701,
+        39.34704868449745
+      ],
+      "scale": [
+        7.082413372043928,
+        3.408698315586467,
+        7.082413372043928
+      ],
+      "yaw": 95,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 6 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -6.937946294326413,
+        8.421745788966168,
+        39.34704868449745
+      ],
+      "scale": [
+        5.527737265985504,
+        3.408698315586467,
+        5.527737265985504
+      ],
+      "yaw": 95,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 7 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -16.12679630291358,
+        2.5131802490474175,
+        27.932430559960263
+      ],
+      "scale": [
+        11.497056326231746,
+        5.226360498094835,
+        11.497056326231746
+      ],
+      "yaw": 114,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 7 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -16.12679630291358,
+        7.739540747142254,
+        27.932430559960263
+      ],
+      "scale": [
+        9.427586187510032,
+        5.226360498094835,
+        9.427586187510032
+      ],
+      "yaw": 114,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 7 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -16.12679630291358,
+        12.965901245237088,
+        27.932430559960263
+      ],
+      "scale": [
+        7.358116048788318,
+        5.226360498094835,
+        7.358116048788318
+      ],
+      "yaw": 114,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 8 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -33.248536621992045,
+        3.2081587572592785,
+        27.898834816697825
+      ],
+      "scale": [
+        11.729938329392846,
+        6.616317514518557,
+        11.729938329392846
+      ],
+      "yaw": 133,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 8 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -33.248536621992045,
+        9.824476271777836,
+        27.898834816697825
+      ],
+      "scale": [
+        9.618549430102135,
+        6.616317514518557,
+        9.618549430102135
+      ],
+      "yaw": 133,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 8 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -33.248536621992045,
+        16.440793786296393,
+        27.898834816697825
+      ],
+      "scale": [
+        7.507160530811421,
+        6.616317514518557,
+        7.507160530811421
+      ],
+      "yaw": 133,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 9 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -28.272087118596982,
+        3.007986359262066,
+        10.29019817175023
+      ],
+      "scale": [
+        14.800968264603384,
+        6.2159727185241325,
+        14.800968264603384
+      ],
+      "yaw": 152,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 9 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -28.272087118596982,
+        9.2239590777862,
+        10.29019817175023
+      ],
+      "scale": [
+        12.136793976974776,
+        6.2159727185241325,
+        12.136793976974776
+      ],
+      "yaw": 152,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 9 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -28.272087118596982,
+        15.439931796310331,
+        10.29019817175023
+      ],
+      "scale": [
+        9.472619689346166,
+        6.2159727185241325,
+        9.472619689346166
+      ],
+      "yaw": 152,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 10 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -36.317329952465954,
+        2.8221047955594893,
+        4.447590187986573e-15
+      ],
+      "scale": [
+        10.691457041625897,
+        5.844209591118979,
+        10.691457041625897
+      ],
+      "yaw": 171,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 10 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -36.317329952465954,
+        8.666314386678469,
+        4.447590187986573e-15
+      ],
+      "scale": [
+        8.766994774133236,
+        5.844209591118979,
+        8.766994774133236
+      ],
+      "yaw": 171,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 10 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -36.317329952465954,
+        14.510523977797448,
+        4.447590187986573e-15
+      ],
+      "scale": [
+        6.842532506640574,
+        5.844209591118979,
+        6.842532506640574
+      ],
+      "yaw": 171,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 11 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -44.365484963608786,
+        3.2901516429289037,
+        -16.147715955538366
+      ],
+      "scale": [
+        15.127667209011726,
+        6.780303285857808,
+        15.127667209011726
+      ],
+      "yaw": 190,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 11 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -44.365484963608786,
+        10.070454928786711,
+        -16.147715955538366
+      ],
+      "scale": [
+        12.404687111389617,
+        6.780303285857808,
+        12.404687111389617
+      ],
+      "yaw": 190,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 11 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -44.365484963608786,
+        16.850758214644518,
+        -16.147715955538366
+      ],
+      "scale": [
+        9.681707013767506,
+        6.780303285857808,
+        9.681707013767506
+      ],
+      "yaw": 190,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 12 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -36.7948116792554,
+        1.687576790147877,
+        -30.874512909300655
+      ],
+      "scale": [
+        12.907267393092747,
+        3.5751535802957544,
+        12.907267393092747
+      ],
+      "yaw": 209,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 12 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -36.7948116792554,
+        5.262730370443632,
+        -30.874512909300655
+      ],
+      "scale": [
+        10.583959262336053,
+        3.5751535802957544,
+        10.583959262336053
+      ],
+      "yaw": 209,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 12 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -36.7948116792554,
+        8.837883950739386,
+        -30.874512909300655
+      ],
+      "scale": [
+        8.260651131579358,
+        3.5751535802957544,
+        8.260651131579358
+      ],
+      "yaw": 209,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 13 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -21.679460992150304,
+        3.2039312999909404,
+        -37.549927919111866
+      ],
+      "scale": [
+        11.512520959404265,
+        6.607862599981881,
+        11.512520959404265
+      ],
+      "yaw": 228,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 13 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -21.679460992150304,
+        9.811793899972821,
+        -37.549927919111866
+      ],
+      "scale": [
+        9.440267186711498,
+        6.607862599981881,
+        9.440267186711498
+      ],
+      "yaw": 228,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 13 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -21.679460992150304,
+        16.4196564999547,
+        -37.549927919111866
+      ],
+      "scale": [
+        7.36801341401873,
+        6.607862599981881,
+        7.36801341401873
+      ],
+      "yaw": 228,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 14 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        -5.36736333614357,
+        2.7368461627424323,
+        -30.439830107553686
+      ],
+      "scale": [
+        8.941776729560939,
+        5.673692325484865,
+        8.941776729560939
+      ],
+      "yaw": 247,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 14 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        -5.36736333614357,
+        8.410538488227298,
+        -30.439830107553686
+      ],
+      "scale": [
+        7.33225691823997,
+        5.673692325484865,
+        7.33225691823997
+      ],
+      "yaw": 247,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 14 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        -5.36736333614357,
+        14.084230813712162,
+        -30.439830107553686
+      ],
+      "scale": [
+        5.722737106919001,
+        5.673692325484865,
+        5.722737106919001
+      ],
+      "yaw": 247,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 15 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        7.434322504581917,
+        1.0852130682661671,
+        -42.16213806141031
+      ],
+      "scale": [
+        12.090498761483918,
+        2.3704261365323345,
+        12.090498761483918
+      ],
+      "yaw": 266,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 15 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        7.434322504581917,
+        3.455639204798502,
+        -42.16213806141031
+      ],
+      "scale": [
+        9.914208984416813,
+        2.3704261365323345,
+        9.914208984416813
+      ],
+      "yaw": 266,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 15 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        7.434322504581917,
+        5.826065341330836,
+        -42.16213806141031
+      ],
+      "scale": [
+        7.737919207349708,
+        2.3704261365323345,
+        7.737919207349708
+      ],
+      "yaw": 266,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 16 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        19.037421906280446,
+        1.3861299697592842,
+        -32.97378198680254
+      ],
+      "scale": [
+        12.321740779439278,
+        2.9722599395185685,
+        12.321740779439278
+      ],
+      "yaw": 285,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 16 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        19.037421906280446,
+        4.358389909277853,
+        -32.97378198680254
+      ],
+      "scale": [
+        10.103827439140208,
+        2.9722599395185685,
+        10.103827439140208
+      ],
+      "yaw": 285,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 16 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        19.037421906280446,
+        7.330649848796422,
+        -32.97378198680254
+      ],
+      "scale": [
+        7.885914098841138,
+        2.9722599395185685,
+        7.885914098841138
+      ],
+      "yaw": 285,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 17 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        29.493778086243253,
+        2.050857397482795,
+        -24.748218314191273
+      ],
+      "scale": [
+        16.06645826159305,
+        4.30171479496559,
+        16.06645826159305
+      ],
+      "yaw": 304,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 17 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        29.493778086243253,
+        6.352572192448385,
+        -24.748218314191273
+      ],
+      "scale": [
+        13.174495774506301,
+        4.30171479496559,
+        13.174495774506301
+      ],
+      "yaw": 304,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 17 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        29.493778086243253,
+        10.654286987413975,
+        -24.748218314191273
+      ],
+      "scale": [
+        10.282533287419552,
+        4.30171479496559,
+        10.282533287419552
+      ],
+      "yaw": 304,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 18 band 1",
+      "mesh": "TaperedRock",
+      "mat": "DistantRose",
+      "pos": [
+        43.40202803906095,
+        3.4414259235633775,
+        -15.797046313005293
+      ],
+      "scale": [
+        10.203951975880415,
+        7.082851847126755,
+        10.203951975880415
+      ],
+      "yaw": 323,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 18 band 2",
+      "mesh": "TaperedRock",
+      "mat": "Terracotta",
+      "pos": [
+        43.40202803906095,
+        10.524277770690134,
+        -15.797046313005293
+      ],
+      "scale": [
+        8.36724062022194,
+        7.082851847126755,
+        8.36724062022194
+      ],
+      "yaw": 323,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Backdrop mesa 18 band 3",
+      "mesh": "TaperedRock",
+      "mat": "Peach",
+      "pos": [
+        43.40202803906095,
+        17.607129617816888,
+        -15.797046313005293
+      ],
+      "scale": [
+        6.530529264563466,
+        7.082851847126755,
+        6.530529264563466
+      ],
+      "yaw": 323,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 1",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        21.017336375672606,
+        0.0894938159585273,
+        3.448368939476445
+      ],
+      "scale": [
+        0.5727604221345748,
+        0.3579752638341092,
+        0.3579752638341092
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 2",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -4.965700944194821,
+        0.09299102779820853,
+        -17.18508279531768
+      ],
+      "scale": [
+        0.5951425779085346,
+        0.3719641111928341,
+        0.3719641111928341
+      ],
+      "yaw": 29,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 3",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -4.646274882531042,
+        0.23715740444603056,
+        21.60882824091655
+      ],
+      "scale": [
+        1.5178073884545957,
+        0.9486296177841222,
+        0.9486296177841222
+      ],
+      "yaw": 58,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 4",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -18.467830258488448,
+        0.22337539154519695,
+        4.613326334027877
+      ],
+      "scale": [
+        1.4296025058892605,
+        0.8935015661807878,
+        0.8935015661807878
+      ],
+      "yaw": 87,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 5",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        15.620560885284538,
+        0.22577414711334076,
+        4.572982994247539
+      ],
+      "scale": [
+        1.444954541525381,
+        0.903096588453363,
+        0.903096588453363
+      ],
+      "yaw": 116,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 6",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        0.1676978324582369,
+        0.07828613500163314,
+        -13.038189263873143
+      ],
+      "scale": [
+        0.5010312640104522,
+        0.3131445400065326,
+        0.3131445400065326
+      ],
+      "yaw": 145,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 7",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -29.673812243330882,
+        0.06632748146805219,
+        -1.081190982292191
+      ],
+      "scale": [
+        0.424495881395534,
+        0.26530992587220875,
+        0.26530992587220875
+      ],
+      "yaw": 174,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 8",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -16.82332471519518,
+        0.0827124541067594,
+        7.058267940048105
+      ],
+      "scale": [
+        0.5293597062832601,
+        0.3308498164270376,
+        0.3308498164270376
+      ],
+      "yaw": 203,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 9",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        8.831946491925258,
+        0.17342199141170975,
+        16.341219194201507
+      ],
+      "scale": [
+        1.1099007450349425,
+        0.693687965646839,
+        0.693687965646839
+      ],
+      "yaw": 232,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 10",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        21.787806950115808,
+        0.2712042672526424,
+        18.542948391852818
+      ],
+      "scale": [
+        1.7357073104169114,
+        1.0848170690105696,
+        1.0848170690105696
+      ],
+      "yaw": 261,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 11",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -4.852340226908314,
+        0.21651775790142722,
+        -11.018128467455343
+      ],
+      "scale": [
+        1.3857136505691343,
+        0.8660710316057089,
+        0.8660710316057089
+      ],
+      "yaw": 290,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 12",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -6.841699752295846,
+        0.1538660211297485,
+        -7.649976676495879
+      ],
+      "scale": [
+        0.9847425352303905,
+        0.615464084518994,
+        0.615464084518994
+      ],
+      "yaw": 319,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 13",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -22.130475340793183,
+        0.28312649137777357,
+        -31.509029082445533
+      ],
+      "scale": [
+        1.812009544817751,
+        1.1325059655110943,
+        1.1325059655110943
+      ],
+      "yaw": 348,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 14",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -25.067096544347745,
+        0.2901363321400231,
+        -11.705661260418573
+      ],
+      "scale": [
+        1.856872525696148,
+        1.1605453285600924,
+        1.1605453285600924
+      ],
+      "yaw": 377,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 15",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        6.189028264777798,
+        0.07711663306380391,
+        24.50480545705044
+      ],
+      "scale": [
+        0.49354645160834504,
+        0.30846653225521564,
+        0.30846653225521564
+      ],
+      "yaw": 406,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 16",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        4.557726108411734,
+        0.11251362042679439,
+        -29.256482129597813
+      ],
+      "scale": [
+        0.7200871707314841,
+        0.45005448170717754,
+        0.45005448170717754
+      ],
+      "yaw": 435,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 17",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        8.392188779040245,
+        0.24102920718074683,
+        24.30356794813067
+      ],
+      "scale": [
+        1.5425869259567797,
+        0.9641168287229873,
+        0.9641168287229873
+      ],
+      "yaw": 464,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 18",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        12.946635617577089,
+        0.18427981271093136,
+        14.851230440000274
+      ],
+      "scale": [
+        1.1793908013499608,
+        0.7371192508437254,
+        0.7371192508437254
+      ],
+      "yaw": 493,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 19",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -2.5686719406448697,
+        0.23469615280817982,
+        36.44392918133791
+      ],
+      "scale": [
+        1.502055377972351,
+        0.9387846112327193,
+        0.9387846112327193
+      ],
+      "yaw": 522,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 20",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        28.089229542382537,
+        0.22430297863169077,
+        -8.083786516388665
+      ],
+      "scale": [
+        1.435539063242821,
+        0.8972119145267631,
+        0.8972119145267631
+      ],
+      "yaw": 551,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 21",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -5.55647667211475,
+        0.16444674066214626,
+        24.51962674470479
+      ],
+      "scale": [
+        1.0524591402377361,
+        0.657786962648585,
+        0.657786962648585
+      ],
+      "yaw": 580,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 22",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -11.765455416611283,
+        0.2642983932280088,
+        1.602490991973677
+      ],
+      "scale": [
+        1.6915097166592563,
+        1.0571935729120352,
+        1.0571935729120352
+      ],
+      "yaw": 609,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 23",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        13.421027360929331,
+        0.283384902328195,
+        19.594271598092774
+      ],
+      "scale": [
+        1.8136633749004483,
+        1.13353960931278,
+        1.13353960931278
+      ],
+      "yaw": 638,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 24",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -35.93616459988485,
+        0.1243705399922117,
+        -2.9314639823557154
+      ],
+      "scale": [
+        0.795971455950155,
+        0.4974821599688468,
+        0.4974821599688468
+      ],
+      "yaw": 667,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 25",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -20.9155644150063,
+        0.13951833762811083,
+        4.420234308610742
+      ],
+      "scale": [
+        0.8929173608199094,
+        0.5580733505124433,
+        0.5580733505124433
+      ],
+      "yaw": 696,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 26",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -15.926197738820223,
+        0.2624193193672005,
+        17.08568834167519
+      ],
+      "scale": [
+        1.679483643950083,
+        1.049677277468802,
+        1.049677277468802
+      ],
+      "yaw": 725,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 27",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        12.624987197059768,
+        0.22107688612542908,
+        -2.3297483927374207
+      ],
+      "scale": [
+        1.4148920712027462,
+        0.8843075445017163,
+        0.8843075445017163
+      ],
+      "yaw": 754,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 28",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -22.02812909797162,
+        0.07218006696209521,
+        -4.03606715134337
+      ],
+      "scale": [
+        0.46195242855740937,
+        0.28872026784838084,
+        0.28872026784838084
+      ],
+      "yaw": 783,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 29",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -12.60927583105125,
+        0.14968092820610035,
+        14.8877907155104
+      ],
+      "scale": [
+        0.9579579405190423,
+        0.5987237128244014,
+        0.5987237128244014
+      ],
+      "yaw": 812,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 30",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -17.492092007015007,
+        0.13274628072774042,
+        -11.643734392825305
+      ],
+      "scale": [
+        0.8495761966575387,
+        0.5309851229109617,
+        0.5309851229109617
+      ],
+      "yaw": 841,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 31",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -5.972616285092663,
+        0.15556520722839534,
+        38.86201881411135
+      ],
+      "scale": [
+        0.9956173262617303,
+        0.6222608289135814,
+        0.6222608289135814
+      ],
+      "yaw": 870,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 32",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        14.75164549022862,
+        0.2201777754895953,
+        -2.5388136816432074
+      ],
+      "scale": [
+        1.40913776313341,
+        0.8807111019583812,
+        0.8807111019583812
+      ],
+      "yaw": 899,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 33",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -29.48150972815553,
+        0.18467422525671742,
+        -10.503419815625554
+      ],
+      "scale": [
+        1.1819150416429915,
+        0.7386969010268697,
+        0.7386969010268697
+      ],
+      "yaw": 928,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 34",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        19.3957207395731,
+        0.07357808450251824,
+        -19.673465824575686
+      ],
+      "scale": [
+        0.47089974081611674,
+        0.29431233801007295,
+        0.29431233801007295
+      ],
+      "yaw": 957,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 35",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -11.666501459627556,
+        0.12075980261851063,
+        -25.88744066452205
+      ],
+      "scale": [
+        0.7728627367584681,
+        0.4830392104740425,
+        0.4830392104740425
+      ],
+      "yaw": 986,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 36",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -4.2531917815612035,
+        0.1283226293169305,
+        -34.81299691377294
+      ],
+      "scale": [
+        0.8212648276283553,
+        0.513290517267722,
+        0.513290517267722
+      ],
+      "yaw": 1015,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 37",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        11.125828901671513,
+        0.20250337310444702,
+        14.997797294683865
+      ],
+      "scale": [
+        1.2960215878684611,
+        0.8100134924177881,
+        0.8100134924177881
+      ],
+      "yaw": 1044,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 38",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -11.423827541805155,
+        0.16929299141296889,
+        4.183183310492841
+      ],
+      "scale": [
+        1.083475145043001,
+        0.6771719656518755,
+        0.6771719656518755
+      ],
+      "yaw": 1073,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 39",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -26.165272800318842,
+        0.1465333934909323,
+        -8.002768124097864
+      ],
+      "scale": [
+        0.9378137183419668,
+        0.5861335739637292,
+        0.5861335739637292
+      ],
+      "yaw": 1102,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 40",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        6.663143992187224,
+        0.12387000393249378,
+        -29.56334013840347
+      ],
+      "scale": [
+        0.7927680251679603,
+        0.49548001572997513,
+        0.49548001572997513
+      ],
+      "yaw": 1131,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 41",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -21.502705709360356,
+        0.11499749892838095,
+        31.03922335920773
+      ],
+      "scale": [
+        0.7359839931416381,
+        0.4599899957135238,
+        0.4599899957135238
+      ],
+      "yaw": 1160,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 42",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -18.088608296041777,
+        0.20102372059010626,
+        6.198066331935101
+      ],
+      "scale": [
+        1.28655181177668,
+        0.804094882360425,
+        0.804094882360425
+      ],
+      "yaw": 1189,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 43",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        3.8356761484995903,
+        0.1077036925293296,
+        -13.15644414952571
+      ],
+      "scale": [
+        0.6893036321877095,
+        0.4308147701173184,
+        0.4308147701173184
+      ],
+      "yaw": 1218,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 44",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        12.687006611985831,
+        0.18616484378817627,
+        5.37429114138726
+      ],
+      "scale": [
+        1.1914550002443283,
+        0.7446593751527051,
+        0.7446593751527051
+      ],
+      "yaw": 1247,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Loose canyon stone 45",
+      "mesh": "FacetedOrb",
+      "mat": "Peach",
+      "pos": [
+        -38.27153003951803,
+        0.17010435331093438,
+        2.677164897491948
+      ],
+      "scale": [
+        1.08866786118998,
+        0.6804174132437375,
+        0.6804174132437375
+      ],
+      "yaw": 1276,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 1 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        12.0,
+        0.95,
+        0.0
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 1 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        12.36,
+        1.1,
+        0.0
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 1 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        12.59,
+        1.43,
+        0.0
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 2 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        -9.512378930482067,
+        0.95,
+        8.713475029109848
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 2 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        -9.152378930482067,
+        1.1,
+        8.713475029109848
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 2 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        -8.922378930482067,
+        1.43,
+        8.713475029109848
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 3 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        1.2074859714643604,
+        0.95,
+        -13.747071601934602
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 3 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        1.5674859714643605,
+        1.1,
+        -13.747071601934602
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 3 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        1.7974859714643605,
+        1.43,
+        -13.747071601934602
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 4 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        8.942764323624152,
+        0.95,
+        11.666917598582543
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 4 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        9.302764323624151,
+        1.1,
+        11.666917598582543
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 4 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        9.532764323624152,
+        1.43,
+        11.666917598582543
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 5 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        -15.361130550388381,
+        0.95,
+        -2.7194977870784824
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 5 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        -15.001130550388382,
+        1.1,
+        -2.7194977870784824
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 5 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        -14.771130550388381,
+        1.43,
+        -2.7194977870784824
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 6 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        13.92359031908612,
+        0.95,
+        -8.853453147007176
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 6 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        14.28359031908612,
+        1.1,
+        -8.853453147007176
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 6 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        14.51359031908612,
+        1.43,
+        -8.853453147007176
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 7 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        -4.520821998119321,
+        0.95,
+        16.802445311957435
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 7 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        -4.160821998119321,
+        1.1,
+        16.802445311957435
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 7 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        -3.9308219981193213,
+        1.43,
+        16.802445311957435
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 8 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        -8.430418149627934,
+        0.95,
+        -16.242476714541535
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 8 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        -8.070418149627935,
+        1.1,
+        -16.242476714541535
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 8 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        -7.840418149627935,
+        1.43,
+        -16.242476714541535
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 9 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        18.033030656579918,
+        0.95,
+        6.591646633341991
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 9 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        18.393030656579917,
+        1.1,
+        6.591646633341991
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 9 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        18.623030656579918,
+        1.43,
+        6.591646633341991
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 10 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        -18.58188267577382,
+        0.95,
+        7.663134882264364
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 10 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        -18.22188267577382,
+        1.1,
+        7.663134882264364
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 10 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        -17.99188267577382,
+        1.43,
+        7.663134882264364
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 11 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        8.907759154076937,
+        0.95,
+        -19.017145602139102
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 11 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        9.267759154076936,
+        1.1,
+        -19.017145602139102
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 11 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        9.497759154076936,
+        1.43,
+        -19.017145602139102
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 12 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        6.545864149381928,
+        0.95,
+        20.898843569390063
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 12 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        6.905864149381928,
+        1.1,
+        20.898843569390063
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 12 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        7.135864149381928,
+        1.43,
+        20.898843569390063
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 13 stem",
+      "mesh": "OctagonalColumn",
+      "mat": "Green",
+      "pos": [
+        -19.721769328300343,
+        0.95,
+        -11.44079606326902
+      ],
+      "scale": [
+        0.38,
+        1.9,
+        0.38
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 13 branch",
+      "mesh": "Box",
+      "mat": "Green",
+      "pos": [
+        -19.361769328300344,
+        1.1,
+        -11.44079606326902
+      ],
+      "scale": [
+        0.68,
+        0.2,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Cactus 13 finger",
+      "mesh": "OctagonalColumn",
+      "mat": "GreenLight",
+      "pos": [
+        -19.131769328300344,
+        1.43,
+        -11.44079606326902
+      ],
+      "scale": [
+        0.23,
+        0.75,
+        0.23
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 1 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -16.0,
+        1,
+        3
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 1 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -16.0,
+        2.5,
+        3
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 2 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -17.8,
+        1,
+        6
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 2 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -17.8,
+        2.5,
+        6
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 3 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -19.6,
+        1,
+        9
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 3 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -19.6,
+        2.5,
+        9
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 4 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -21.4,
+        1,
+        12
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 4 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -21.4,
+        2.5,
+        12
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 5 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -23.2,
+        1,
+        15
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 5 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -23.2,
+        2.5,
+        15
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 6 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -25.0,
+        1,
+        18
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 6 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -25.0,
+        2.5,
+        18
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 7 trunk",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -26.8,
+        1,
+        21
+      ],
+      "scale": [
+        0.4,
+        2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Juniper 7 crown",
+      "mesh": "FacetedOrb",
+      "mat": "GreenLight",
+      "pos": [
+        -26.8,
+        2.5,
+        21
+      ],
+      "scale": [
+        2.7,
+        2.6,
+        2.5
+      ],
+      "yaw": 0,
+      "parent": "03 - LOW POLY LANDSCAPE"
+    },
+    {
+      "name": "Tent body",
+      "mesh": "PineCrown",
+      "mat": "Teal",
+      "pos": [
+        4,
+        0.9,
+        11
+      ],
+      "scale": [
+        3,
+        1.8,
+        2.8
+      ],
+      "yaw": 20,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Tent entrance",
+      "mesh": "Box",
+      "mat": "TealDark",
+      "pos": [
+        3.4,
+        0.5,
+        12.0
+      ],
+      "scale": [
+        0.8,
+        0.9,
+        0.12
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Supply box",
+      "mesh": "Box",
+      "mat": "Coral",
+      "pos": [
+        -3,
+        0.4,
+        10
+      ],
+      "scale": [
+        1.2,
+        0.8,
+        1
+      ],
+      "yaw": 18,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Supply lid",
+      "mesh": "Box",
+      "mat": "Cream",
+      "pos": [
+        -3,
+        0.85,
+        10
+      ],
+      "scale": [
+        1.3,
+        0.12,
+        1.1
+      ],
+      "yaw": 18,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Trail sign post",
+      "mesh": "OctagonalColumn",
+      "mat": "Bark",
+      "pos": [
+        -4,
+        1.1,
+        7
+      ],
+      "scale": [
+        0.15,
+        2.2,
+        0.15
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Trail sign board",
+      "mesh": "Box",
+      "mat": "Teal",
+      "pos": [
+        -4,
+        2.15,
+        7
+      ],
+      "scale": [
+        2,
+        0.65,
+        0.16
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 0",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -0.30000000000000004,
+        0.13,
+        12.0
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 1",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -0.5050252531694167,
+        0.13,
+        12.494974746830582
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 2",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -1.0,
+        0.13,
+        12.7
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 3",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -1.4949747468305832,
+        0.13,
+        12.494974746830584
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 4",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -1.7,
+        0.13,
+        12.0
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 5",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -1.4949747468305834,
+        0.13,
+        11.505025253169418
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 6",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -1.0000000000000002,
+        0.13,
+        11.3
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Campfire stone 7",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -0.5050252531694168,
+        0.13,
+        11.505025253169416
+      ],
+      "scale": [
+        0.35,
+        0.24,
+        0.35
+      ],
+      "yaw": 0,
+      "parent": "04 - BASE CAMP"
+    },
+    {
+      "name": "Hold 00 / REST CHECKPOINT",
+      "mesh": "TaperedRock",
+      "mat": "Teal",
+      "pos": [
+        -0.0,
+        2.4,
+        6.0
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": 0.0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Rest ledge 00",
+      "mesh": "Box",
+      "mat": "Teal",
+      "pos": [
+        -0.0,
+        0.0,
+        6.65
+      ],
+      "scale": [
+        3.4,
+        0.24,
+        2.3
+      ],
+      "yaw": 0.0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Ledge 00 pale edge",
+      "mesh": "Box",
+      "mat": "Cream",
+      "pos": [
+        -0.0,
+        0.135,
+        7.68
+      ],
+      "scale": [
+        3.4,
+        0.06,
+        0.13
+      ],
+      "yaw": 0.0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag pole 00",
+      "mesh": "OctagonalColumn",
+      "mat": "Cream",
+      "pos": [
+        -0.9515899017868942,
+        1.2,
+        6.935018144087095
+      ],
+      "scale": [
+        0.07,
+        2.4,
+        0.07
+      ],
+      "yaw": 0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag 00",
+      "mesh": "Box",
+      "mat": "Flag",
+      "pos": [
+        -1.3178459437235222,
+        2.05,
+        6.8748296028782745
+      ],
+      "scale": [
+        0.7,
+        0.4,
+        0.04
+      ],
+      "yaw": 0.0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 01",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -0.9136222192982344,
+        3.1399999999999997,
+        5.930033257950967
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -8.758520811058574,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 02",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -1.8328296758384242,
+        3.88,
+        5.713207101039312
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -17.78653949462411,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 03",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -2.677660658248752,
+        4.62,
+        5.369369925723769
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -26.505055523107988,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 04",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -3.4004055803386573,
+        5.36,
+        4.9434038768040915
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -34.52280852637261,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 05",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -4.004938085826906,
+        6.1000000000000005,
+        4.4677142845859255
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -41.873611582053535,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 06",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -4.527971712762862,
+        6.840000000000001,
+        3.936682888983992
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -48.9958406563931,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 07",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -5.001379071687818,
+        7.580000000000001,
+        3.3145448226390144
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -56.46652162555096,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 08",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -5.422314509993775,
+        8.32,
+        2.5687556043171877
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -64.65131412205943,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 09",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -5.752403827661306,
+        9.06,
+        1.7058283042286408
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -73.48270730840424,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 10",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -5.948682440285154,
+        9.8,
+        0.7830563355487685
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -82.50097104515343,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 11 / REST CHECKPOINT",
+      "mesh": "TaperedRock",
+      "mat": "Teal",
+      "pos": [
+        -5.99882689052775,
+        10.540000000000001,
+        -0.11864205612330414
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -91.13302202455856,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Rest ledge 11",
+      "mesh": "Box",
+      "mat": "Teal",
+      "pos": [
+        -6.648699803668257,
+        8.14,
+        -0.1314949455366621
+      ],
+      "scale": [
+        3.4,
+        0.24,
+        2.3
+      ],
+      "yaw": -91.13302202455856,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Ledge 11 pale edge",
+      "mesh": "Box",
+      "mat": "Cream",
+      "pos": [
+        -7.6784984198755195,
+        8.275,
+        -0.15186183183782928
+      ],
+      "scale": [
+        3.4,
+        0.06,
+        0.13
+      ],
+      "yaw": -91.13302202455856,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag pole 11",
+      "mesh": "OctagonalColumn",
+      "mat": "Cream",
+      "pos": [
+        -6.914845791085558,
+        9.34,
+        -1.0885346505767997
+      ],
+      "scale": [
+        0.07,
+        2.4,
+        0.07
+      ],
+      "yaw": 0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag 11",
+      "mesh": "Box",
+      "mat": "Flag",
+      "pos": [
+        -6.847426789520883,
+        10.190000000000001,
+        -1.4535289340607376
+      ],
+      "scale": [
+        0.7,
+        0.4,
+        0.04
+      ],
+      "yaw": -91.13302202455856,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 12",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -5.925472531685523,
+        11.280000000000001,
+        -0.9427487874510141
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -99.04004841500507,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 13",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -5.758154445932025,
+        13.930000000000001,
+        -1.6863147324248993
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -106.32302857165746,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 14",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -5.503967723640068,
+        14.670000000000002,
+        -2.3887945280262937
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -113.46147892121404,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 15",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -5.141785250860201,
+        15.410000000000002,
+        -3.092255557685442
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -121.02258573195611,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 16",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -4.641903034013843,
+        16.150000000000002,
+        -3.801675449431878
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -129.31715753430777,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 17",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -3.998328772431406,
+        16.89,
+        -4.473630184486327
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -138.2110928369252,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 18",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -3.2496573407238336,
+        17.63,
+        -5.043781038851677
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -147.20672429187903,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 19",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -2.4648194300514237,
+        18.369999999999997,
+        -5.4703441552831915
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -155.74469702986218,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 20",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -1.6997473758675596,
+        19.109999999999996,
+        -5.754203581576807
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -163.54326581809954,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 21",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        -0.9624710787133607,
+        19.849999999999994,
+        -5.922301024318195
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -170.76919793789628,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 22",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        -0.2160305328007241,
+        20.589999999999993,
+        -5.9961096394994176
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -177.9366143895971,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 23",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        0.5849899486391397,
+        21.32999999999999,
+        -5.971414134021453
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -185.59513099260997,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 24",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        1.4511725691338209,
+        22.06999999999999,
+        -5.8218638059124626
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -193.99646880447966,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 25 / REST CHECKPOINT",
+      "mesh": "TaperedRock",
+      "mat": "Teal",
+      "pos": [
+        2.3387718514854754,
+        22.809999999999988,
+        -5.525409145637923
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -202.94176350514925,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Rest ledge 25",
+      "mesh": "Box",
+      "mat": "Teal",
+      "pos": [
+        2.5921388020630687,
+        20.40999999999999,
+        -6.123995136415364
+      ],
+      "scale": [
+        3.4,
+        0.24,
+        2.3
+      ],
+      "yaw": -202.94176350514925,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Ledge 25 pale edge",
+      "mesh": "Box",
+      "mat": "Cream",
+      "pos": [
+        2.993627969901408,
+        20.54499999999999,
+        -7.072523706416541
+      ],
+      "scale": [
+        3.4,
+        0.06,
+        0.13
+      ],
+      "yaw": -202.94176350514925,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag pole 25",
+      "mesh": "OctagonalColumn",
+      "mat": "Cream",
+      "pos": [
+        3.5795581285269886,
+        21.60999999999999,
+        -6.015543500341126
+      ],
+      "scale": [
+        0.07,
+        2.4,
+        0.07
+      ],
+      "yaw": 0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag 25",
+      "mesh": "Box",
+      "mat": "Flag",
+      "pos": [
+        3.8933826648270955,
+        22.45999999999999,
+        -5.817350894111844
+      ],
+      "scale": [
+        0.7,
+        0.4,
+        0.04
+      ],
+      "yaw": -202.94176350514925,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 26",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        3.1708250460634964,
+        23.549999999999986,
+        -5.093708720299623
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -211.90219382500695,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 27",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        3.88391302703236,
+        26.199999999999985,
+        -4.573316039642169
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -220.3397574309417,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 28",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        4.461223693086768,
+        26.939999999999984,
+        -4.0121668908759585
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -228.0336159223195,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 29",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        4.927734950562595,
+        27.679999999999982,
+        -3.4230729260423103
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -235.2140524414451,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 30",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        5.3183264980729446,
+        28.41999999999998,
+        -2.777661473235206
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -242.42278500953873,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 31",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        5.644729884061631,
+        29.15999999999998,
+        -2.0339676831212343
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -250.1843676442128,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 32",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        5.883441649260825,
+        29.899999999999977,
+        -1.176908815390158
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -258.6880029312181,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 33",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        5.995051275251717,
+        30.639999999999976,
+        -0.24363950234469256
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -267.67277427477876,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 34",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        5.960405950410445,
+        31.379999999999974,
+        0.6881576173463126
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -276.5859144034305,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 35",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        5.797768632655695,
+        32.119999999999976,
+        1.5446290435550236
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -284.918106579475,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 36",
+      "mesh": "TaperedRock",
+      "mat": "HoldWhite",
+      "pos": [
+        5.54277896655824,
+        32.85999999999998,
+        2.2973030552975753
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -292.51242929770285,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 37",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        5.213886882922875,
+        33.59999999999998,
+        2.969071163189725
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -299.65954276477123,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 38",
+      "mesh": "TaperedRock",
+      "mat": "HoldGold",
+      "pos": [
+        4.796763436841866,
+        34.33999999999998,
+        3.6043113809682166
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -306.92137831812664,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Hold 39 / REST CHECKPOINT",
+      "mesh": "TaperedRock",
+      "mat": "Teal",
+      "pos": [
+        4.25814170499814,
+        35.079999999999984,
+        4.227082826271037
+      ],
+      "scale": [
+        0.68,
+        0.36,
+        0.65
+      ],
+      "yaw": -314.79027841709427,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Rest ledge 39",
+      "mesh": "Box",
+      "mat": "Teal",
+      "pos": [
+        4.719440389706271,
+        32.679999999999986,
+        4.685016799117066
+      ],
+      "scale": [
+        3.4,
+        0.24,
+        2.3
+      ],
+      "yaw": -314.79027841709427,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Ledge 39 pale edge",
+      "mesh": "Box",
+      "mat": "Cream",
+      "pos": [
+        5.450421382397619,
+        32.81499999999998,
+        5.410666017626927
+      ],
+      "scale": [
+        3.4,
+        0.06,
+        0.13
+      ],
+      "yaw": -314.79027841709427,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag pole 39",
+      "mesh": "OctagonalColumn",
+      "mat": "Cream",
+      "pos": [
+        4.251306775459954,
+        33.87999999999999,
+        5.561150123933744
+      ],
+      "scale": [
+        0.07,
+        2.4,
+        0.07
+      ],
+      "yaw": 0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Checkpoint flag 39",
+      "mesh": "Box",
+      "mat": "Flag",
+      "pos": [
+        3.9505591150645216,
+        34.72999999999998,
+        5.778674820266375
+      ],
+      "scale": [
+        0.7,
+        0.4,
+        0.04
+      ],
+      "yaw": -314.79027841709427,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 00",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -0.0,
+        2.32,
+        5.7
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": 0.0,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 01",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -0.8679411083333227,
+        3.0599999999999996,
+        5.6335315950534195
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -8.758520811058574,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 02",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -1.741188192046503,
+        3.8,
+        5.427546745987346
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -17.78653949462411,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 03",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -2.5437776253363142,
+        4.54,
+        5.10090142943758
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -26.505055523107988,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 04",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -3.230385301321724,
+        5.28,
+        4.6962336829638875
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -34.52280852637261,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 05",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -3.8046911815355604,
+        6.0200000000000005,
+        4.244328570356629
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -41.873611582053535,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 06",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -4.301573127124719,
+        6.760000000000001,
+        3.7398487445347923
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -48.9958406563931,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 07",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -4.751310118103428,
+        7.500000000000001,
+        3.1488175815070636
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -56.46652162555096,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 08",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -5.1511987844940865,
+        8.24,
+        2.4403178241013284
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -64.65131412205943,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 09",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -5.4647836362782405,
+        8.98,
+        1.620536889017209
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -73.48270730840424,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 10",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -5.651248318270897,
+        9.72,
+        0.7439035187713301
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -82.50097104515343,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 11",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -5.698885546001363,
+        10.46,
+        -0.11270995331713894
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -91.13302202455856,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 12",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -5.629198905101247,
+        11.200000000000001,
+        -0.8956113480784633
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -99.04004841500507,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 13",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -5.470246723635424,
+        13.850000000000001,
+        -1.6019989958036542
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -106.32302857165746,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 14",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -5.228769337458066,
+        14.590000000000002,
+        -2.269354801624979
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -113.46147892121404,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 15",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -4.8846959883171905,
+        15.330000000000002,
+        -2.93764277980117
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -121.02258573195611,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 16",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -4.409807882313152,
+        16.070000000000004,
+        -3.611591676960284
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -129.31715753430777,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 17",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -3.7984123338098357,
+        16.810000000000002,
+        -4.249948675262011
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -138.2110928369252,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 18",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -3.087174473687642,
+        17.55,
+        -4.791591986909093
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -147.20672429187903,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 19",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -2.341578458548853,
+        18.29,
+        -5.196826947519032
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -155.74469702986218,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 20",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        -1.6147600070741817,
+        19.029999999999998,
+        -5.466493402497966
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -163.54326581809954,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 21",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        -0.9143475247776927,
+        19.769999999999996,
+        -5.626185973102285
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -170.76919793789628,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 22",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        -0.2052290061606879,
+        20.509999999999994,
+        -5.696304157524447
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -177.9366143895971,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 23",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        0.5557404512071827,
+        21.249999999999993,
+        -5.67284342732038
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -185.59513099260997,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 24",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        1.3786139406771298,
+        21.98999999999999,
+        -5.53077061561684
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -193.99646880447966,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 25",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        2.2218332589112015,
+        22.72999999999999,
+        -5.249138688356027
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -202.94176350514925,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 26",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        3.0122837937603215,
+        23.469999999999988,
+        -4.839023284284642
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -211.90219382500695,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 27",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        3.689717375680742,
+        26.119999999999987,
+        -4.34465023766006
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -220.3397574309417,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 28",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        4.2381625084324295,
+        26.859999999999985,
+        -3.811558546332161
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -228.0336159223195,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 29",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        4.6813482030344655,
+        27.599999999999984,
+        -3.251919279740195
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -235.2140524414451,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 30",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        5.052410173169298,
+        28.339999999999982,
+        -2.6387783995734457
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -242.42278500953873,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 31",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        5.36249338985855,
+        29.07999999999998,
+        -1.9322692989651729
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -250.1843676442128,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 32",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        5.589269566797784,
+        29.81999999999998,
+        -1.11806337462065
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -258.6880029312181,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 33",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        5.695298711489131,
+        30.559999999999977,
+        -0.23145752722745797
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -267.67277427477876,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 34",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        5.662385652889923,
+        31.299999999999976,
+        0.653749736478997
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -276.5859144034305,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 35",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        5.507880201022911,
+        32.03999999999998,
+        1.4673975913772725
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -284.918106579475,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 36",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        5.265640018230328,
+        32.77999999999998,
+        2.1824379025326968
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -292.51242929770285,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 37",
+      "mesh": "FacetedOrb",
+      "mat": "Terracotta",
+      "pos": [
+        4.953192538776731,
+        33.51999999999998,
+        2.8206176050302387
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -299.65954276477123,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 38",
+      "mesh": "FacetedOrb",
+      "mat": "Apricot",
+      "pos": [
+        4.556925264999773,
+        34.259999999999984,
+        3.424095811919806
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -306.92137831812664,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Natural rock socket 39",
+      "mesh": "FacetedOrb",
+      "mat": "Ochre",
+      "pos": [
+        4.045234619748233,
+        34.999999999999986,
+        4.015728684957485
+      ],
+      "scale": [
+        0.94,
+        0.62,
+        1.12
+      ],
+      "yaw": -314.79027841709427,
+      "parent": "05 - AUTHORED CLIMBING ROUTE"
+    },
+    {
+      "name": "Torso",
+      "mesh": "OctagonalColumn",
+      "mat": "Coral",
+      "pos": [
+        0,
+        0.02,
+        0
+      ],
+      "scale": [
+        0.64,
+        0.68,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Harness",
+      "mesh": "OctagonalColumn",
+      "mat": "TealDark",
+      "pos": [
+        0,
+        -0.29,
+        0
+      ],
+      "scale": [
+        0.65,
+        0.15,
+        0.44
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Buckle",
+      "mesh": "Box",
+      "mat": "HoldGold",
+      "pos": [
+        0,
+        -0.29,
+        0.245
+      ],
+      "scale": [
+        0.17,
+        0.13,
+        0.04
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Head",
+      "mesh": "FacetedOrb",
+      "mat": "Skin",
+      "pos": [
+        0,
+        0.68,
+        0
+      ],
+      "scale": [
+        0.5,
+        0.52,
+        0.46
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Helmet",
+      "mesh": "FacetedOrb",
+      "mat": "HoldGold",
+      "pos": [
+        0,
+        0.88,
+        0
+      ],
+      "scale": [
+        0.62,
+        0.37,
+        0.57
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Helmet stripe",
+      "mesh": "Box",
+      "mat": "Cream",
+      "pos": [
+        0,
+        1.02,
+        0
+      ],
+      "scale": [
+        0.12,
+        0.045,
+        0.5
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Goggles",
+      "mesh": "Box",
+      "mat": "Goggle",
+      "pos": [
+        0,
+        0.72,
+        0.225
+      ],
+      "scale": [
+        0.44,
+        0.16,
+        0.055
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Nose",
+      "mesh": "FacetedOrb",
+      "mat": "Skin",
+      "pos": [
+        0,
+        0.62,
+        0.25
+      ],
+      "scale": [
+        0.12,
+        0.12,
+        0.11
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Backpack",
+      "mesh": "OctagonalColumn",
+      "mat": "Teal",
+      "pos": [
+        0,
+        0.04,
+        -0.31
+      ],
+      "scale": [
+        0.49,
+        0.58,
+        0.3
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "Chalk pouch",
+      "mesh": "FacetedOrb",
+      "mat": "Cream",
+      "pos": [
+        0,
+        -0.4,
+        -0.34
+      ],
+      "scale": [
+        0.25,
+        0.27,
+        0.24
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "UpperArmL",
+      "mesh": "OctagonalColumn",
+      "mat": "Coral",
+      "pos": [
+        -0.3,
+        0.52,
+        0
+      ],
+      "scale": [
+        0.16,
+        0.55,
+        0.16
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "ForearmL",
+      "mesh": "OctagonalColumn",
+      "mat": "Skin",
+      "pos": [
+        -0.3,
+        0.95,
+        0.06
+      ],
+      "scale": [
+        0.13,
+        0.48,
+        0.13
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "HandL",
+      "mesh": "FacetedOrb",
+      "mat": "White",
+      "pos": [
+        -0.3,
+        1.15,
+        0.15
+      ],
+      "scale": [
+        0.2,
+        0.17,
+        0.19
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "ThighL",
+      "mesh": "OctagonalColumn",
+      "mat": "Navy",
+      "pos": [
+        -0.3,
+        -0.49,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.4,
+        0.2
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "ShinL",
+      "mesh": "OctagonalColumn",
+      "mat": "Blue",
+      "pos": [
+        -0.3,
+        -0.9,
+        0.08
+      ],
+      "scale": [
+        0.16,
+        0.45,
+        0.16
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "BootL",
+      "mesh": "Box",
+      "mat": "Boot",
+      "pos": [
+        -0.3,
+        -1.13,
+        0.13
+      ],
+      "scale": [
+        0.25,
+        0.2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "UpperArmR",
+      "mesh": "OctagonalColumn",
+      "mat": "Coral",
+      "pos": [
+        0.3,
+        0.52,
+        0
+      ],
+      "scale": [
+        0.16,
+        0.55,
+        0.16
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "ForearmR",
+      "mesh": "OctagonalColumn",
+      "mat": "Skin",
+      "pos": [
+        0.3,
+        0.95,
+        0.06
+      ],
+      "scale": [
+        0.13,
+        0.48,
+        0.13
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "HandR",
+      "mesh": "FacetedOrb",
+      "mat": "White",
+      "pos": [
+        0.3,
+        1.15,
+        0.15
+      ],
+      "scale": [
+        0.2,
+        0.17,
+        0.19
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "ThighR",
+      "mesh": "OctagonalColumn",
+      "mat": "Navy",
+      "pos": [
+        0.3,
+        -0.49,
+        0
+      ],
+      "scale": [
+        0.2,
+        0.4,
+        0.2
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "ShinR",
+      "mesh": "OctagonalColumn",
+      "mat": "Blue",
+      "pos": [
+        0.3,
+        -0.9,
+        0.08
+      ],
+      "scale": [
+        0.16,
+        0.45,
+        0.16
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    },
+    {
+      "name": "BootR",
+      "mesh": "Box",
+      "mat": "Boot",
+      "pos": [
+        0.3,
+        -1.13,
+        0.13
+      ],
+      "scale": [
+        0.25,
+        0.2,
+        0.4
+      ],
+      "yaw": 0,
+      "parent": "06 - PLAYER / Canyon climber"
+    }
+  ],
+  "materials": {
+    "Sand": [
+      1,
+      0.72,
+      0.39
+    ],
+    "SandLight": [
+      1,
+      0.82,
+      0.51
+    ],
+    "Terracotta": [
+      0.92,
+      0.37,
+      0.23
+    ],
+    "Apricot": [
+      1,
+      0.56,
+      0.31
+    ],
+    "Peach": [
+      1,
+      0.67,
+      0.43
+    ],
+    "Ochre": [
+      0.82,
+      0.44,
+      0.25
+    ],
+    "Wine": [
+      0.54,
+      0.23,
+      0.29
+    ],
+    "DistantRose": [
+      0.77,
+      0.45,
+      0.43
+    ],
+    "HoldGold": [
+      1,
+      0.87,
+      0.38
+    ],
+    "HoldWhite": [
+      1,
+      0.94,
+      0.73
+    ],
+    "Teal": [
+      0.1,
+      0.78,
+      0.68
+    ],
+    "TealDark": [
+      0.04,
+      0.38,
+      0.43
+    ],
+    "Green": [
+      0.24,
+      0.63,
+      0.39
+    ],
+    "GreenLight": [
+      0.52,
+      0.77,
+      0.37
+    ],
+    "Bark": [
+      0.46,
+      0.26,
+      0.23
+    ],
+    "Cream": [
+      1,
+      0.95,
+      0.78
+    ],
+    "Coral": [
+      1,
+      0.3,
+      0.28
+    ],
+    "Navy": [
+      0.13,
+      0.23,
+      0.36
+    ],
+    "Blue": [
+      0.16,
+      0.48,
+      0.71
+    ],
+    "Skin": [
+      0.98,
+      0.66,
+      0.4
+    ],
+    "Boot": [
+      0.19,
+      0.19,
+      0.27
+    ],
+    "Goggle": [
+      0.16,
+      0.84,
+      0.9
+    ],
+    "White": [
+      0.98,
+      0.98,
+      0.9
+    ],
+    "Flag": [
+      0.98,
+      0.32,
+      0.37
+    ]
+  },
+  "holds": [
+    {
+      "id": 0,
+      "arc": 0,
+      "height": 2.4,
+      "rest": true
+    },
+    {
+      "id": 1,
+      "arc": 1.0089091699989476,
+      "height": 3.1399999999999997,
+      "rest": false
+    },
+    {
+      "id": 2,
+      "arc": 2.048862266333513,
+      "height": 3.88,
+      "rest": false
+    },
+    {
+      "id": 3,
+      "arc": 3.0531632161941396,
+      "height": 4.62,
+      "rest": false
+    },
+    {
+      "id": 4,
+      "arc": 3.9767420604171058,
+      "height": 5.36,
+      "rest": false
+    },
+    {
+      "id": 5,
+      "arc": 4.823493785933234,
+      "height": 6.1000000000000005,
+      "rest": false
+    },
+    {
+      "id": 6,
+      "arc": 5.643915678961291,
+      "height": 6.840000000000001,
+      "rest": false
+    },
+    {
+      "id": 7,
+      "arc": 6.504476348795336,
+      "height": 7.580000000000001,
+      "rest": false
+    },
+    {
+      "id": 8,
+      "arc": 7.44729676132889,
+      "height": 8.32,
+      "rest": false
+    },
+    {
+      "id": 9,
+      "arc": 8.464600226352298,
+      "height": 9.06,
+      "rest": false
+    },
+    {
+      "id": 10,
+      "arc": 9.50342963348087,
+      "height": 9.8,
+      "rest": false
+    },
+    {
+      "id": 11,
+      "arc": 10.497770524698964,
+      "height": 10.540000000000001,
+      "rest": true
+    },
+    {
+      "id": 12,
+      "arc": 11.408594578764436,
+      "height": 11.280000000000001,
+      "rest": false
+    },
+    {
+      "id": 13,
+      "arc": 12.247533667165014,
+      "height": 13.930000000000001,
+      "rest": false
+    },
+    {
+      "id": 14,
+      "arc": 13.069824116958369,
+      "height": 14.670000000000002,
+      "rest": false
+    },
+    {
+      "id": 15,
+      "arc": 13.94080109597832,
+      "height": 15.410000000000002,
+      "rest": false
+    },
+    {
+      "id": 16,
+      "arc": 14.89626717673949,
+      "height": 16.150000000000002,
+      "rest": false
+    },
+    {
+      "id": 17,
+      "arc": 15.920774976373705,
+      "height": 16.89,
+      "rest": false
+    },
+    {
+      "id": 18,
+      "arc": 16.956997331794128,
+      "height": 17.63,
+      "rest": false
+    },
+    {
+      "id": 19,
+      "arc": 17.940501187568046,
+      "height": 18.369999999999997,
+      "rest": false
+    },
+    {
+      "id": 20,
+      "arc": 18.83883182273489,
+      "height": 19.109999999999996,
+      "rest": false
+    },
+    {
+      "id": 21,
+      "arc": 19.671199449040923,
+      "height": 19.849999999999994,
+      "rest": false
+    },
+    {
+      "id": 22,
+      "arc": 20.49682655426993,
+      "height": 20.589999999999993,
+      "rest": false
+    },
+    {
+      "id": 23,
+      "arc": 21.379024335842022,
+      "height": 21.32999999999999,
+      "rest": false
+    },
+    {
+      "id": 24,
+      "arc": 22.34678897801221,
+      "height": 22.06999999999999,
+      "rest": false
+    },
+    {
+      "id": 25,
+      "arc": 23.37721295559225,
+      "height": 22.809999999999988,
+      "rest": true
+    },
+    {
+      "id": 26,
+      "arc": 24.409380431340747,
+      "height": 23.549999999999986,
+      "rest": false
+    },
+    {
+      "id": 27,
+      "arc": 25.38131798542279,
+      "height": 26.199999999999985,
+      "rest": false
+    },
+    {
+      "id": 28,
+      "arc": 26.267586860279433,
+      "height": 26.939999999999984,
+      "rest": false
+    },
+    {
+      "id": 29,
+      "arc": 27.094713769608035,
+      "height": 27.679999999999982,
+      "rest": false
+    },
+    {
+      "id": 30,
+      "arc": 27.925100149787305,
+      "height": 28.41999999999998,
+      "rest": false
+    },
+    {
+      "id": 31,
+      "arc": 28.819170285915785,
+      "height": 29.15999999999998,
+      "rest": false
+    },
+    {
+      "id": 32,
+      "arc": 29.798718751286078,
+      "height": 29.899999999999977,
+      "rest": false
+    },
+    {
+      "id": 33,
+      "arc": 30.833690111680276,
+      "height": 30.639999999999976,
+      "rest": false
+    },
+    {
+      "id": 34,
+      "arc": 31.860410148461856,
+      "height": 31.379999999999974,
+      "rest": false
+    },
+    {
+      "id": 35,
+      "arc": 32.82020978517572,
+      "height": 32.119999999999976,
+      "rest": false
+    },
+    {
+      "id": 36,
+      "arc": 33.69501296206346,
+      "height": 32.85999999999998,
+      "rest": false
+    },
+    {
+      "id": 37,
+      "arc": 34.518301331355666,
+      "height": 33.59999999999998,
+      "rest": false
+    },
+    {
+      "id": 38,
+      "arc": 35.35480473630894,
+      "height": 34.33999999999998,
+      "rest": false
+    },
+    {
+      "id": 39,
+      "arc": 36.261236956876395,
+      "height": 35.079999999999984,
+      "rest": true
+    }
+  ],
+  "player": {
+    "position": [
+      -0.0,
+      1.25,
+      6.6
+    ],
+    "yaw": 180
+  }
+}
